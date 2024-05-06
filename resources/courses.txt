@@ -1,0 +1,6 @@
+﻿CSE101, Introduction to Computer Science, Lisa Sawyers
+MTH202, Calculus I, Nancy Murrell
+PHY301, Modern Physics, Kim Johnston
+ENG200, English Composition, Emilia Green
+CHEM205, Organic Chemistry, Teresa Jones
+ART110, Introduction to Art History, Mary Frances
